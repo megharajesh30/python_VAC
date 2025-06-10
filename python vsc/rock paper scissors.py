@@ -19,4 +19,4 @@ while True:
          (user == "paper" and computer == "rock"):
         print("You win!")
     else:
-        print("You lose!")s
+        print("You lose!")
